@@ -6,3 +6,11 @@
 - Extracted informative features and modeled in gradient boosting tree that improves accuracy from 48% to 81%.
 
 - Cross validated the model and fine-tuned hyper parameters by grid search in achieving best model selections.
+
+### Tools & Package
+
+- Python
+- numpy, pandas, matplotlib, sklearn, xgboost, csv, datatime, holidays, gzip
+
+
+
